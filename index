@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>Dinosaurs life and death</title>
 </head>
 <body>
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-<img src="image1.jpg" width="500" height="600">
+<h1>dinosaurs life and death</h1>
+<p>befor the big bang.</p>
+<img src="Image1.bmp" width="500" height="600">
 
 </body>
 </html>
